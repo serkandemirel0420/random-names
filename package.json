@@ -1,0 +1,19 @@
+{
+  "name": "random-names",
+  "version": "1.0.0",
+  "description": "Sample project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Serkan Demirel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkandemirel0420/random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/serkandemirel0420/random-names/issues"
+  },
+  "homepage": "https://github.com/serkandemirel0420/random-names#readme"
+}
